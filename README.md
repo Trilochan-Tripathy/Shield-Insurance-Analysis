@@ -23,8 +23,10 @@ To assist Shield Insurance in making data-driven decisions by developing an inte
 * ➡The offline-agent sales mode generated the most customers and created the most revenue.
 
 # 🔗Links:- 
-* ➡ Presentation Link :- https://www.youtube.com/watch?si=qNd5W7T_Zi30h7ys&v=iELvpUKzVUo&feature=youtu.be
-* ➡ Live Dashboard :- https://app.powerbi.com/groups/me/reports/c5bdb783-ec66-4ce7-98e8-b5208ba8d302/ReportSection304ebf4ad961bea580b2?experience=power-bi
+* ➡ Presentation Link :-
+*  https://www.youtube.com/watch?si=qNd5W7T_Zi30h7ys&v=iELvpUKzVUo&feature=youtu.be
+* ➡ Live Dashboard :-
+*  https://app.powerbi.com/groups/me/reports/c5bdb783-ec66-4ce7-98e8-b5208ba8d302/ReportSection304ebf4ad961bea580b2?experience=power-bi
 * ➡ Linkedin :-
 
 # 🎯 Dashboard View :- 
